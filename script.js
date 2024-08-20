@@ -6,10 +6,11 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Quando você começa um novo projeto de programação, qual é a sua abordagem inicial?",
+        enunciado: "na  sua opinião, porque falta médicos no SUS?",
         alternativas: [
             {
-                texto: "Gosto de planejar detalhadamente antes de começar a codificar.",
+                texto: "Por razões de organização no atendimento, principalmente nos interiores,onde os médicos vão uma ou duas por semana atender e não conseguem dar um bom atendimento 
+.",
                 afirmacao: "<b>Organização</b> é uma característica forte sua, valorizando o planejamento detalhado."
             },
             {
